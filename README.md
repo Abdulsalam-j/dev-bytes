@@ -12,6 +12,3 @@ In addition, it also covers how to use
 [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) for scheduling
 periodic work. In this app it's used to setup a daily background data sync.
 
-## Screenshots
-
-![Screenshot1](screenshots/devbyte-homescreen.png)
